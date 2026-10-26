@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.syntraceapp.syntrace",
+      "sha256_cert_fingerprints": [
+        "B4:C8:DF:5E:E0:CF:11:81:69:19:9A:9C:8F:92:1A:1A:F4:41:C8:C1:22:E3:1C:02:78:7B:36:7B:58:47:09:DB"
+      ]
+    }
+  }
+]
